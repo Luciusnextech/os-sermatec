@@ -1,6 +1,6 @@
-Django>=5.2
+django
 djangorestframework
+gunicorn
 pillow
 weasyprint
 django-cors-headers
-reportlab
