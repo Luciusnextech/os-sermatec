@@ -1,0 +1,6 @@
+Django>=5.2
+djangorestframework
+pillow
+weasyprint
+django-cors-headers
+reportlab
