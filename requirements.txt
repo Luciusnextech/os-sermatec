@@ -1,6 +1,0 @@
-django
-djangorestframework
-gunicorn
-pillow
-weasyprint
-django-cors-headers
